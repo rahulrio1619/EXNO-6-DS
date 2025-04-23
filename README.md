@@ -18,7 +18,11 @@ STEP 4:Apply the various data visualization tools wherever necessary.
 STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
- Include the necessary coding and corresponding screenshots
+![DS exp 6 ipynb - Colab_page-0001](https://github.com/user-attachments/assets/47b0b2b0-392c-42ed-957e-12dd1721ece1)
+![DS exp 6 ipynb - Colab_page-0002](https://github.com/user-attachments/assets/fbb0678a-ba91-4dd3-8012-6eb592f887cf)
+![DS exp 6 ipynb - Colab_page-0003](https://github.com/user-attachments/assets/536b175b-9153-4e4f-9e1c-efce1c4c9707)
+![DS exp 6 ipynb - Colab_page-0004](https://github.com/user-attachments/assets/138c9e2c-1578-4bb0-9688-1bc740493351)
+
 
 # Result:
- Include your result here
+Thus we have Performed Data Visualization using seaborn python library for the given datas.
